@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="download.htm" width="250" height="200"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Ilayadharshini.M</h1>
 <h3 align="center">A passionate learner from India</h3>
 
